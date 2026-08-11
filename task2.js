@@ -356,7 +356,7 @@ switch (trafficLight){
     
     case    "green"   : console.log("You can Go Now"); break;
     
-    default           : console.log("Have a safe ride"); break;
+    default           : console.log("Invalid Traffic Light"); break;
 }
 
 //  ------------- TASK END-------------------- //
